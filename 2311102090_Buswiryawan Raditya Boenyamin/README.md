@@ -258,7 +258,7 @@ class MyApp extends StatelessWidget {
 ```
 
 ### 2. task.dart
-[lib/models/task.dart](lib/screens/task.dart)
+[lib/models/task.dart](lib/models/task.dart)
 ```dart
 // 2311102090-Buswiryawan Raditya Boenyamin
 class Task {
@@ -2214,26 +2214,26 @@ class _LogoPainter extends CustomPainter {
 # Output :
 Aplikasi management tugas digital berbasis Flutter ini dirancang untuk membantu pengguna mengelola aktivitas harian secara terorganisir dengan dukungan backend Supabase untuk sinkronisasi data secara real-time dan penyimpanan yang aman. Sistem ini mengintegrasikan fitur autentikasi akun yang aman, pengelolaan tugas (menambah, melihat, dan mengubah daftar aktivitas), serta layanan notifikasi pengingat otomatis. Untuk mengoptimalkan fokus dan keterbacaan informasi, aplikasi ini mengusung manajemen visual monokromatik dengan tipografi tegas, yang dilengkapi dengan pengaturan tema mode terang dan mode gelap sesuai preferensi kenyamanan mata pengguna.
 ## Register Aplikasi
-![Register Aplikasi](assets\icon/1.png)
+![Register Aplikasi](assets/icon/1.png)
 ## Verifikasi Email
-![Verifikasi Email](assets\icon/2.png)
+![Verifikasi Email](assets/icon/2.png)
 ## Login Aplikasi
-![Register Aplikasi](assets\icon/3.png)
+![Register Aplikasi](assets/icon/3.png)
 ## Create Task
-![create task](assets\icon/4.png)
+![create task](assets/icon/4.png)
 ## Read Task
-![read task](assets\icon/5.png)
+![read task](assets/icon/5.png)
 ## Update Task
-![update task](assets\icon/6.png)
+![update task](assets/icon/6.png)
 ## Delete Task
-![delete task](assets\icon/7.png)
+![delete task](assets/icon/7.png)
 ## Notification
-![Notification](assets\icon/8.png)
+![Notification](assets/icon/8.png)
 ## Supabase
-![Supabase](assets\icon/9.png)
-![Supabase](assets\icon/10.png)
-![Supabase](assets\icon/11.png)
-![Supabase](assets\icon/12.png)
+![Supabase](assets/icon/9.png)
+![Supabase](assets/icon/10.png)
+![Supabase](assets/icon/11.png)
+![Supabase](assets/icon/12.png)
 
 # Kesimpulan
   Aplikasi Manajemen Tugas ini merupakan perangkat lunak yang berfungsi untuk mengorganisasi aktivitas harian secara sistematis.
