@@ -259,7 +259,6 @@ Aplikasi ini adalah sistem manajemen pesanan untuk produk Lumubi yang dibangun m
 ### 3. Output
 
 <img alt="Screenshot Tampilan LMS App" src="Screenshot (1419).png" />
-<img alt="Screenshot Tampilan LMS App" src="Screenshot (1420).png" />
 <img alt="Screenshot Tampilan LMS App" src="Screenshot (1421).png" />
 <img alt="Screenshot Tampilan LMS App" src="Screenshot (1422).png" />
 <img alt="Screenshot Tampilan LMS App" src="Screenshot (1423).png" />
