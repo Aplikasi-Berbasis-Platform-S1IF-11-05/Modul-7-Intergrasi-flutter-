@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590413954620",
+    "project_id": "modul-7-amanda",
+    "storage_bucket": "modul-7-amanda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590413954620:android:0c749e7af87069983a4d39",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWK9BmI48lPXHPS2yTkXoW248hR-5Fc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
