@@ -1621,19 +1621,11 @@ class NotificationService {
 
 ### 9. Authentication
 
-<div>
-  <img src="assets/image13.png" width="300" />
-</div>
-
-<br>
+![Hasil Output](image13.png)
 
 ### 10. Database
 
-<div>
-  <img src="assets/image14.png" width="300" />
-</div>
-
-<br>
+![Hasil Output](image14.png)
 
 ## Deskripsi Kode
 
