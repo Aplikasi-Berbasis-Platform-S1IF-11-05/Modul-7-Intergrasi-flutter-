@@ -1563,7 +1563,7 @@ class NotificationService {
 
 <br>
 
-### 3. Halaman Berand
+### 3. Halaman Beranda
 
 <div>
   <img src="assets/image3.png" width="300" />
