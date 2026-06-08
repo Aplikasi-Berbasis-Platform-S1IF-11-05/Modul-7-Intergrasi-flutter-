@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362779336588",
+    "project_id": "pinspiration-app",
+    "storage_bucket": "pinspiration-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362779336588:android:deb9a21caac74cc148c0a9",
+        "android_client_info": {
+          "package_name": "com.example.pinspiration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLx6vtv770fWvgKsWJLWHMqL4xFp749g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
