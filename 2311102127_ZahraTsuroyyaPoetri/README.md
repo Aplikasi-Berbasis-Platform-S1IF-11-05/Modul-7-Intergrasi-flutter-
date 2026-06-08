@@ -1621,11 +1621,11 @@ class NotificationService {
 
 ### 9. Authentication
 
-![Hasil Output](image13.png)
+![Hasil Output](assets/image13.png)
 
 ### 10. Database
 
-![Hasil Output](image14.png)
+![Hasil Output](assets/image14.png)
 
 ## Deskripsi Kode
 
