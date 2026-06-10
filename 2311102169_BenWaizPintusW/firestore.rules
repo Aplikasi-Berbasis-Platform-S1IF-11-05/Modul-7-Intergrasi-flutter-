@@ -1,0 +1,29 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /transactions/{transactionId} {
+
+      // Baca: user login boleh baca dokumen miliknya
+      // (allow list query where userId == uid)
+      allow read: if request.auth != null
+                  && (
+                    // baca satu dokumen
+                    resource == null
+                    || resource.data.userId == request.auth.uid
+                  );
+
+      // Tambah: userId harus sama dengan uid yang login
+      allow create: if request.auth != null
+                    && request.resource.data.userId == request.auth.uid;
+
+      // Update: hanya pemilik, userId tidak boleh diubah
+      allow update: if request.auth != null
+                    && resource.data.userId == request.auth.uid
+                    && request.resource.data.userId == request.auth.uid;
+
+      // Hapus: hanya pemilik
+      allow delete: if request.auth != null
+                    && resource.data.userId == request.auth.uid;
+    }
+  }
+}

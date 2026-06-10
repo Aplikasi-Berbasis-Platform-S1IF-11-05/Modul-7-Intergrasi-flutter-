@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064382105666",
+    "project_id": "benwaiz",
+    "storage_bucket": "benwaiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064382105666:android:2138a78b349af87fe945db",
+        "android_client_info": {
+          "package_name": "com.example.modul_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB431knPFBQpfZrsi-OJYcQRVPvan4m3uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
