@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412949602178",
+    "project_id": "rawatin-app",
+    "storage_bucket": "rawatin-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412949602178:android:7eb549526f71988cf2b99b",
+        "android_client_info": {
+          "package_name": "com.example.rawatin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBoWHTkz965LS5yRemHkcOr-AFfqAancY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

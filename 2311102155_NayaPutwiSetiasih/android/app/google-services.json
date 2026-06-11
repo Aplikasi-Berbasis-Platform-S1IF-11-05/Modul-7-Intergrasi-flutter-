@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190977128208",
+    "project_id": "tugas7-naya",
+    "storage_bucket": "tugas7-naya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190977128208:android:baf28a108df423e6271795",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwIVUBe42rAOF38ztROWVsATjWs63mDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
