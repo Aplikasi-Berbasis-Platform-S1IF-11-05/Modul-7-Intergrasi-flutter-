@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
@@ -728,3 +729,46 @@ Aplikasi MoodTrack dibangun menggunakan Flutter dengan Supabase sebagai backend.
 Alur autentikasi dimulai dari `login_screen.dart` dan `register_screen.dart`. Halaman registrasi memungkinkan pengguna membuat akun baru dengan email dan password, dan setelah berhasil akan muncul dialog yang menginformasikan pengguna untuk mengkonfirmasi email sebelum login. Halaman login memverifikasi kredensial melalui Supabase Auth dan mengarahkan pengguna ke halaman utama jika berhasil. Seluruh operasi autentikasi menampilkan SnackBar sebagai umpan balik jika terjadi kegagalan.
 
 Setelah login, pengguna masuk ke `home_screen.dart` yang menampilkan daftar entri mood yang diambil dari Supabase melalui `mood_service.dart`. Pengguna dapat menambah mood baru melalui bottom sheet dengan memilih emoji dan menambahkan catatan, mengedit catatan melalui dialog, serta menghapus entri dengan konfirmasi terlebih dahulu. Keamanan data dijamin oleh Row Level Security (RLS) di Supabase sehingga setiap pengguna hanya dapat mengakses datanya sendiri. Setiap operasi CRUD yang berhasil akan memicu notifikasi lokal melalui `notification_service.dart` yang menggunakan package `flutter_local_notifications`, sehingga pengguna mendapat umpan balik langsung di notification panel perangkat.
+=======
+# Modul 7 ( Integrasi Flutter Firebase/Supabase )
+
+Silahkan upload tugas yang sudah diberikan beserta source code nya di folder masing masing
+
+## Task
+
+- Buat laporan dalam format Markdown file dengan penamaan README.md
+- Upload Source Code dengan format yang sudah ditentukan sebelum nya (tugas-1, tugas-2, etc)
+- Masukan beberapa Screenshot Dashboard Firebase / supabase yang sudah berhasil diintegrasikan
+- Tambahkan watermark pada source code, Hasil Akhir Aplikasi dan juga laporan (harus mengandung nim dan nama)
+
+## Langkah Langkah Membuat Folder (khusus windows)
+
+Membuat Folder terlebih dahulu dengan format NIM_Nama
+
+~~~bash
+mkdir "2311102081_Apri Pandu Wicaksono"
+~~~
+
+Pindah ke folder yang sudah di buat
+
+~~~bash
+cd "2311102081_Apri Pandu Wicaksono"
+~~~
+
+Lanjut Membuat File README
+
+~~~bash
+echo "" >> README.md
+~~~
+
+## Note
+
+- Upload harus lewat github CLI, bukan menggunakan fitur drag and drop atau by platform github langsung
+- Laporan praktikum berisi kan nama, logo, identitas, dan cover dan di upload dengan format README.md
+- Di dalam folder masing masing mahasiswa harus berisi laporan (README.md, source code, dan file screenshot)
+
+## Reference
+
+- [Akses Materi](https://artk.my.id/modul-praktikum-abp)
+- [Akun Github](https://artk.my.id/akun-github-abp-05)
+>>>>>>> 2d3dd7371560a36107825da6e9a85f322f10b289
