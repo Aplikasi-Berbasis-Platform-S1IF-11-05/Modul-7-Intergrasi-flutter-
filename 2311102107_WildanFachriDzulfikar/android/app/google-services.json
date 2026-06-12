@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333063576817",
+    "project_id": "wildanfachri-a3b62",
+    "storage_bucket": "wildanfachri-a3b62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333063576817:android:763c4abd1163540f0ddd50",
+        "android_client_info": {
+          "package_name": "com.example.modul_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzF4xcri-7k3XB9bvXrVTEOVJ4Y22J8XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
