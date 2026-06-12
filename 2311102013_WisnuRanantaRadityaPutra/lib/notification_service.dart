@@ -25,8 +25,8 @@ class NotificationService {
   }) async {
     const AndroidNotificationDetails androidDetails =
         AndroidNotificationDetails(
-      'coffee_channel',
-      'Coffee Notification',
+      'inventory',
+      'Inventory Notification',
       importance: Importance.max,
       priority: Priority.high,
     );
