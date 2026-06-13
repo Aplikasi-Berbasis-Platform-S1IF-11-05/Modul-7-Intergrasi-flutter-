@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36331035997",
+    "project_id": "risma-17d28",
+    "storage_bucket": "risma-17d28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36331035997:android:b25bfaabe952088b2c9cb4",
+        "android_client_info": {
+          "package_name": "com.example.modul7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTsLBfEbbW2ywrw8f6cgqUWEzsbEZY9dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

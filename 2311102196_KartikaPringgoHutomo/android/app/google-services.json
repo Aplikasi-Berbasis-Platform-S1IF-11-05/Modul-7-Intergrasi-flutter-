@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439949789019",
+    "project_id": "pringgo-979ff",
+    "storage_bucket": "pringgo-979ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439949789019:android:b178d87a49b2fbb6837c7e",
+        "android_client_info": {
+          "package_name": "com.example.modul_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGvGkhHUbWd9-UGv83YvDUvuwquXsIqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270961120755",
+    "project_id": "acha-1e26e",
+    "storage_bucket": "acha-1e26e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270961120755:android:43525baf8d4f978fe6ae86",
+        "android_client_info": {
+          "package_name": "com.example.modul_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlKM9W6sZ_k64phRrxen0xr7dE5fwjmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
