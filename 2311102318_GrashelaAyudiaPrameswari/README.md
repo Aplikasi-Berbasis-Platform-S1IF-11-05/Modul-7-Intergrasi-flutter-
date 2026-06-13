@@ -353,13 +353,40 @@ class _RegisterPageState extends State<RegisterPage> {
 
 # Output
 
-> Tambahkan screenshot hasil akhir aplikasi (tema **pink**) dan dashboard Supabase yang sudah berhasil diintegrasikan di sini.
+### 1. Halaman Login
+<p align="justify">
+Halaman login bertema pink. Pengguna memasukkan email dan password untuk masuk ke aplikasi menggunakan Authentication Supabase.
+</p>
 
-<!-- Contoh:
-![Login](screenshot/login.jpeg)
-![Home](screenshot/home.jpeg)
-![Supabase Dashboard](screenshot/supabase.png)
--->
+<img src="docs/01-login.png" width="280" alt="Halaman Login" />
+
+### 2. Halaman Register
+<p align="justify">
+Halaman registrasi untuk membuat akun baru. Data email dan password dikirim ke Supabase Auth melalui fungsi <code>signUp</code>.
+</p>
+
+<img src="docs/02-register.png" width="280" alt="Halaman Register" />
+
+### 3. Form Tambah Pesanan
+<p align="justify">
+Form tambah/edit pesanan berisi input Nama Kopi, Ukuran (Size), dan Jumlah yang akan disimpan ke tabel <code>orders</code> Supabase.
+</p>
+
+<img src="docs/03-form-tambah-pesanan.png" width="280" alt="Form Tambah Pesanan" />
+
+### 4. Daftar Pesanan Kopi
+<p align="justify">
+Data pesanan yang tersimpan di Supabase ditampilkan dalam bentuk kartu lengkap dengan informasi ukuran dan jumlah, serta tombol Edit dan Hapus.
+</p>
+
+<img src="docs/04-daftar-pesanan.png" width="280" alt="Daftar Pesanan" />
+
+### 5. Notifikasi CRUD
+<p align="justify">
+Setiap aksi Create, Update, dan Delete memunculkan notifikasi sistem menggunakan package <code>flutter_local_notifications</code>, sehingga pengguna mendapat informasi setiap kali berhasil menambahkan, memperbarui, atau menghapus data.
+</p>
+
+<img src="docs/05-notifikasi-crud.png" width="280" alt="Notifikasi CRUD" />
 
 # Penjelasan
 <p align="justify">

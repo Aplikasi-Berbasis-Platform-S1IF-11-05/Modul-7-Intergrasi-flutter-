@@ -12,7 +12,11 @@ import 'supabase_config.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  await NotificationService.init();
+  try {
+    await NotificationService.init();
+  } catch (e) {
+    debugPrint("Notification init error: $e");
+  }
 
   await Supabase.initialize(
     url: supabaseUrl,
